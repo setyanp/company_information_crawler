@@ -123,16 +123,16 @@ i'm using MYSQL for this project, you can change to any db type or dialect, you 
 ## run the file
 
 - to collecting company's basic information:
-    '''bash
-    python company_information_crawl.py csv_file.csv
-    '''
+```bash
+python company_information_crawl.py csv_file.csv
+```
 
 - to collecting company's rating from user reviews:
-    '''bash
-    python company_rating_crawl.py csv_file.csv
-    '''
+```bash
+python company_rating_crawl.py csv_file.csv
+```
 
 - to collecting company's user review:
-    '''bash
-    python company_review_crawl.py csv_file.csv
-    '''
+```
+python company_review_crawl.py csv_file.csv
+```
