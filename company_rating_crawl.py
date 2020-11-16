@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+get company rating from the user
+and put it into the database
+
+"""
+
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys

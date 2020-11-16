@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jul 16 09:46:42 2020
+get company review of the user from jobstreet, indoor, and glassdoor
+and put it into the database
 
-@author: mauke
 """
 
 from bs4 import BeautifulSoup
